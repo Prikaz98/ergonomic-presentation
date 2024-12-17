@@ -29,4 +29,4 @@
     [[./staggered-vs-orholinear.jpg]]
 * And let's take a look how it can be
     [[./macbook-keyboard.jpg]]
-    [[./macbook-ortholinear-keyboard.webp]]
+    [[./macbook-ortholinear-keyboard.png]]
