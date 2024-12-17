@@ -1,0 +1,32 @@
+#+title: Ergonomic Laptop
+
+* Let's take a look how it was?
+    [[./old-phone.png][old-phone]]
+* Became to
+    [[./smart-phone.jpg][smart-phone]]
+* Clothes were difficult without any reason. Just why not
+    [[./old-fashion.jpg][old-fashion]]
+* And now
+    [[./new-fashion.jpg][new-fashion]]
+* Things were huge and unconforable to use
+    [[./vacuum-cleaner-old.jpg][vacuum-cleaner-old]]
+* But now we even no need to touch some of them
+    [[./vacuum-cleaner-now.jpg][vacuum-cleaner-now]]
+* All humanity spends lifetime on the computer
+    [[./writing-machin-old.jpg][writing-machin-old]]
+* But ergonomic of the main input tool stayed in the century before last
+    [[./laptop-keyboard.jpg][laptop-keyboard]]
+* Keyboards that put everywhere force our hands stay unnatural
+    [[./hands-on-keyboard.jpg][hands-on-keyboard]]
+* There is a sort of devices which improve hand feelings
+    [[./more-ergonomic.jpg][more-ergonomic]]
+    [[./kinesis-adv-erg.jpg][kinesis-adv-erg]]
+* Although it doesn't fit in lapopt format
+* But we can do it better
+* Orholinear keyboard
+    [[./orholinear-keyboard.jpg][orholinear-keyboard]]
+* Difference
+    [[./staggered-vs-orholinear.jpg][staggered-vs-orholinear]]
+* And let's take a look how it can be
+    [[./macbook-keyboard.jpg][macbook-keyboard]]
+    [[./macbook-ortholinear-keyboard.webp][macbook-ortholinear-keyboard]]
