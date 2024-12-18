@@ -1,28 +1,28 @@
 #+title: Ergonomic Laptop
 
-* Let's take a look how it was?
+* Let's take a look what was before
     [[./old-phone.png]]
-* Became to
+* A huge phone became a simple shape devices
     [[./smart-phone.jpg]]
-* Clothes were difficult without any reason. Just why not
+* Clothes were complex to be more expressive
     [[./old-fashion.jpg]]
-* And now
+* Now we prefer comfort more than expressive
     [[./new-fashion.jpg]]
-* Things were huge and unconforable to use
+* Some devices were huge because there is not way to do it different
     [[./vacuum-cleaner-old.jpg]]
-* But now we even no need to touch some of them
+* They evolved to things with minimal human interactive
     [[./vacuum-cleaner-now.jpg]]
-* All humanity spends lifetime on the computer
+* And while all humanity spends lifetime on the computer
     [[./writing-machin-old.jpg]]
-* But ergonomic of the main input tool stayed in the century before last
+* the main input tool stayed in the century before last
     [[./laptop-keyboard.jpg]]
 * Keyboards that put everywhere force our hands stay unnatural
     [[./hands-on-keyboard.jpg]]
 * There is a sort of devices which improve hand feelings
     [[./more-ergonomic.jpg]]
     [[./kinesis-adv-erg.jpg]]
-* Although it doesn't fit in lapopt format
-* But we can do it better
+* Although devices like that not fit in laptop format
+* We can do it better
 * Orholinear keyboard
     [[./orholinear-keyboard.jpg]]
 * Difference
